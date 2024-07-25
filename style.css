@@ -1,0 +1,129 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.nav{
+    text-align: center;
+    /* background-color: skyblue; */
+    height: 80px;
+    width: 100%;
+    line-height: 80px;
+    color: white;
+    /* z-index: 1;
+    position: fixed; */
+    background-color:rgb(38, 36, 36) ;
+}
+.main{
+    display: flex;
+}
+.i{
+    margin-left:50px;
+    font-size: 30px;
+}
+body{
+    background-color: rgb(38, 36, 36);
+}
+.left{
+    width: 100px;
+    margin-top: 100px;
+}
+.l{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.right{
+    color: white;
+    height: 600px;
+    width: 900px;
+    /* background-color: saddlebrown; */
+    margin-top: 125px;
+    margin-left: 50px;
+}
+.hello{
+    font-size: 30px;
+}
+.iam{
+    font-size: 100px;
+    font-weight: 700;
+}
+#name{
+    color: rgb(35, 160, 209);
+    font-size: 100px;
+    font-weight: 700;
+}
+.ima{
+    height: 500px;
+    width: 500px;
+    border: 10px white solid;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.extremeRight{
+    height: 520px;
+    width: 520px;
+    background-color: rgb(35, 160, 209);
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 100px;
+    
+}
+#typing-animation{
+    font-size: 50px;
+}
+.About{
+    font-size: 25px;
+    margin-top: 30px;
+}
+.pt{
+    display:flex;
+    margin-left: 50px;
+    margin-top: 150px;
+
+}
+.pr{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border: 10px white solid;
+    border-radius: 20px;
+}
+h3{
+    font-size: 30px;
+    font-weight: 600;
+    color:rgb(35, 160, 209);
+}
+.head{
+    font-size: 50px;
+    font-weight: 600;
+    height: 80px;
+    line-height: 80px;
+    width: auto;
+    border-radius: 20px;
+    color:white;
+    background-color: rgb(35, 160, 209);
+    margin-top: 20px;
+}
+.p1{
+    width: 320px;
+    margin-left: 100px;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+.list{
+    color: white;
+    font-size: 25px;
+    width: 600px;
+    margin-left: 140px;
+}
+ul{
+    text-decoration: double;
+}
